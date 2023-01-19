@@ -168,6 +168,7 @@ p {
 
     h1 {
         font-size: 1.75em;
+        padding-top: 45px;
     }
 
      p {
@@ -179,10 +180,16 @@ p {
     
 
     .anual_container {
+        width: 354px;
         margin: 20px 48px 32px 48px;
     }
 
+    .anual_plan {
+        margin: 0 94px 0 20px;
+    }
+
     .btn_payment {
+        width: 354px;
         margin: 0 48px 0 48px;
     }
 
