@@ -156,6 +156,8 @@ p {
 
     .box {
         width: 450px;
+        padding-top: 102px;
+        margin: 0;
     }
 
     .box_content {
@@ -164,10 +166,17 @@ p {
         align-items: center;
     }
 
+    h1 {
+        font-size: 1.75em;
+    }
+
      p {
         margin: 0 48px 0 48px;
         padding-top: 17px;
+        font-size: 1em;
     }
+
+    
 
     .anual_container {
         margin: 20px 48px 32px 48px;
